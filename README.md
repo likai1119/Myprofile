@@ -1,6 +1,6 @@
 # 安装依赖
 
-yarn或者npm install
+yarn 或者 npm install
 
 ## 启动项目
 
